@@ -1,0 +1,12 @@
+
+th{
+    border: 1.3px solid cyan;
+    /* padding-bottom : 10px; */
+    font-size: medium;
+    color: turquoise;
+}
+tbody tr td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid cyan;
+}   
