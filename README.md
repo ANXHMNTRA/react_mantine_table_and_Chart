@@ -25,17 +25,17 @@ To get started with this project locally, follow the steps below:
 
 1. **Clone the repository**:
    git clone https://github.com/ANXHMNTRA/react_mantine_table_and_Chart
-   
-   
+
+2.**navigate into folder**:
    cd react_mantine_table_and_Chart
 
-2. **Install dependencies**:
+3. **Install dependencies**:
     yarn install
     
-3. **Start the development server**:
+4. **Start the development server**:
     yarn dev
 
-4. **Open the app**: 
+5. **Open the app**: 
     The application will be available at http://localhost:5173 by default.
 
 
