@@ -25,6 +25,8 @@ To get started with this project locally, follow the steps below:
 
 1. **Clone the repository**:
    git clone https://github.com/ANXHMNTRA/react_mantine_table_and_Chart
+   
+   
    cd react_mantine_table_and_Chart
 
 2. **Install dependencies**:
